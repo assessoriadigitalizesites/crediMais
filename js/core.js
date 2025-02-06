@@ -11,7 +11,7 @@ $(document).ready(function() {
 });
 
 $("body").on("click", ".btn, .blue-box-btn", function() {
-  window.open("https://api.whatsapp.com/send?phone=14073606377&text=Bem%20vindo%20!", "_blank");
+  window.open("https://api.whatsapp.com/send?phone=5511980651856", "_blank");
 });
 
 $("body").on("click", ".header-menu-item", function() {
